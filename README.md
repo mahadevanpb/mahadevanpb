@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mahadevanpb/mahadevanpb/main/assets/header.svg" alt="Mahadevan — Generalist &amp; Data Analyst" width="100%" />
+  <img src="./assets/header.svg" alt="Mahadevan — Generalist &amp; Data Analyst" width="100%" />
 </div>
 
 <br />
@@ -18,7 +18,7 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/mahadevanpb/mahadevanpb/main/assets/section-about.svg" alt="Briefing &amp; Focus" width="300" />
+<img src="./assets/section-about.svg" alt="Briefing &amp; Focus" width="300" />
 
 ```yaml
 profile:
@@ -37,7 +37,7 @@ profile:
 
 ---
 
-<img src="https://raw.githubusercontent.com/mahadevanpb/mahadevanpb/main/assets/section-tech.svg" alt="Tech Stack &amp; Tooling" width="300" />
+<img src="./assets/section-tech.svg" alt="Tech Stack &amp; Tooling" width="300" />
 
 <br />
 
@@ -52,7 +52,7 @@ profile:
 
 ---
 
-<img src="https://raw.githubusercontent.com/mahadevanpb/mahadevanpb/main/assets/section-projects.svg" alt="Featured Projects" width="300" />
+<img src="./assets/section-projects.svg" alt="Featured Projects" width="300" />
 
 <br />
 
@@ -148,17 +148,17 @@ profile:
 
 ---
 
-<img src="https://raw.githubusercontent.com/mahadevanpb/mahadevanpb/main/assets/section-stats.svg" alt="Activity Metrics" width="300" />
+<img src="./assets/section-stats.svg" alt="Activity Metrics" width="300" />
 
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mahadevanpb/mahadevanpb/main/assets/metrics.svg" alt="Overview &amp; Focus Metrics" width="100%" />
+  <img src="./assets/metrics.svg" alt="Overview &amp; Focus Metrics" width="100%" />
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/mahadevanpb/mahadevanpb/main/assets/section-contact.svg" alt="Get In Touch" width="300" />
+<img src="./assets/section-contact.svg" alt="Get In Touch" width="300" />
 
 <br />
 
