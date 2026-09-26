@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 170" width="850" height="170" fill="none">
+  <defs>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+      .tile-title { font-weight: 800; font-size: 11px; letter-spacing: 0.5px; fill: #1C1917; }
+      .tile-item { font-weight: 600; font-size: 12px; fill: #3F3F46; }
+      .tile-header { font-weight: 800; font-size: 13px; fill: #1C1917; }
+    </style>
+  </defs>
+
+  <!-- Hard Shadow -->
+  <rect x="8" y="8" width="834" height="154" rx="4" fill="#1C1917" />
+
+  <!-- Outer Card Frame -->
+  <rect x="4" y="4" width="834" height="154" rx="4" fill="#F8F6F0" stroke="#1C1917" stroke-width="2.5" />
+
+  <!-- Tile 1: Business & Experience Domains -->
+  <g transform="translate(18, 16)">
+    <rect x="2" y="2" width="250" height="130" rx="3" fill="#1C1917" />
+    <rect x="0" y="0" width="250" height="130" rx="3" fill="#FFFFFF" stroke="#1C1917" stroke-width="2" />
+    <rect x="0" y="0" width="250" height="28" rx="2" fill="#EAE5DC" stroke="#1C1917" stroke-width="1.5" />
+    <text x="12" y="19" class="mono tile-title">// DOMAIN EXPERTISE</text>
+    <text x="14" y="52" class="mono tile-item">&#9656; Data Management</text>
+    <text x="14" y="76" class="mono tile-item">&#9656; Marketing &amp; Campaigns</text>
+    <text x="14" y="100" class="mono tile-item">&#9656; E-Commerce Operations</text>
+    <text x="14" y="122" class="mono" font-size="11" fill="#71717A">Cross-functional Generalist</text>
+  </g>
+
+  <!-- Tile 2: Technical Toolkit & Learning -->
+  <g transform="translate(288, 16)">
+    <rect x="2" y="2" width="264" height="130" rx="3" fill="#1C1917" />
+    <rect x="0" y="0" width="264" height="130" rx="3" fill="#FFFFFF" stroke="#1C1917" stroke-width="2" />
+    <rect x="0" y="0" width="264" height="28" rx="2" fill="#D8E2DC" stroke="#1C1917" stroke-width="1.5" />
+    <text x="12" y="19" class="mono tile-title">// ANALYTICS &amp; CODING</text>
+    <text x="14" y="52" class="mono tile-item">&#9656; Python (Pandas, NumPy, EDA)</text>
+    <text x="14" y="76" class="mono tile-item">&#9656; SQL (Queries &amp; Structuring)</text>
+    <text x="14" y="100" class="mono tile-item">&#9656; Power BI (DAX &amp; Dashboards)</text>
+    <text x="14" y="122" class="mono" font-size="11" fill="#71717A">Active learning &amp; expanding</text>
+  </g>
+
+  <!-- Tile 3: Software & Personal Utility -->
+  <g transform="translate(572, 16)">
+    <rect x="2" y="2" width="250" height="130" rx="3" fill="#1C1917" />
+    <rect x="0" y="0" width="250" height="130" rx="3" fill="#FFFFFF" stroke="#1C1917" stroke-width="2" />
+    <rect x="0" y="0" width="250" height="28" rx="2" fill="#FFE5D9" stroke="#1C1917" stroke-width="1.5" />
+    <text x="12" y="19" class="mono tile-title">// SCRIPTS &amp; TOOLS</text>
+    <text x="14" y="52" class="mono tile-item">&#9656; Small Apps (e.g. Memories)</text>
+    <text x="14" y="76" class="mono tile-item">&#9656; Automation &amp; Scraping</text>
+    <text x="14" y="100" class="mono tile-item">&#9656; Data Hygiene &amp; Wrangling</text>
+    <text x="14" y="122" class="mono" font-size="11" fill="#71717A">Built for daily practical use</text>
+  </g>
+</svg>
