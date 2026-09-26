@@ -34,7 +34,7 @@
   <circle cx="62" cy="23" r="5.5" fill="#81B29A" stroke="#1C1917" stroke-width="1.5" />
 
   <!-- Window Title -->
-  <text x="84" y="27" class="mono" font-size="12" font-weight="700" fill="#44403C">mahadevan.sh — generalist &bull; data &bull; scripts</text>
+  <text x="84" y="27" class="mono" font-size="12" font-weight="700" fill="#44403C">mahadevan.sh — generalist &#8226; data &#8226; scripts</text>
 
   <!-- Status Badge (Top Right) -->
   <g transform="translate(636, 12)">
@@ -48,7 +48,7 @@
   <g transform="translate(32, 58)">
     <rect x="2" y="2" width="210" height="22" rx="2" fill="#1C1917" />
     <rect x="0" y="0" width="210" height="22" rx="2" fill="#708D81" stroke="#1C1917" stroke-width="1.5" />
-    <text x="10" y="15" class="mono badge-text" fill="#FFFFFF">GENERALIST &bull; DATA &amp; BUILDER</text>
+    <text x="10" y="15" class="mono badge-text" fill="#FFFFFF">GENERALIST &#8226; DATA &amp; BUILDER</text>
   </g>
 
   <!-- Main Headline -->
